@@ -41,7 +41,7 @@ education:
 achievement: "NIMCET 2025 — All India Rank 1094"
 
 focus: [Artificial Intelligence, Machine Learning, Data Analytics, Intelligent Systems]
-currently_learning: [pandas, Design & Analysis of Algorithms]
+open_to: [AI/ML internships, collaborative projects]
 currently_building: Movie & TV Show Recommendation System
 ```
 
